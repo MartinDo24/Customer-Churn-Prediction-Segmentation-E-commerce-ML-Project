@@ -20,3 +20,5 @@ Dự án sử dụng dữ liệu bán hàng để xây dựng mô hình dự đo
 ## 🧰 Công cụ sử dụng
 - Python, pandas, numpy, seaborn, matplotlib  
 - scikit-learn (RandomForest, GridSearchCV, KMeans)
+
+Dataset:'churn_prediction'
